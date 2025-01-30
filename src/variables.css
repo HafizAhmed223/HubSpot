@@ -1,0 +1,17 @@
+:root {
+  /* HubSpot-inspired colors */
+  --sidebar-bg: #33475b;
+  --sidebar-text: #ffffff;
+  --link-hover-bg: #2c3d4a; 
+  --link-active-bg: #ff7a59; 
+  --link-padding: 12px 16px;
+  --icon-size: 1.2rem;
+  --logout-bg: #ff7a59; 
+  --logout-hover-bg: #d64e36;
+  --font-family: 'Inter', 'Roboto', sans-serif;
+  --border-color: #e2e2e2;
+  --text-secondary: #6b7688;
+  --background-color: #f3f5f7; /* Light gray background */
+  --container-bg-color: #ffffff; /* White containers */
+  --text-color: #33475b; /* Dark navy text */
+}

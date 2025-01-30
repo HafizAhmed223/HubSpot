@@ -1,0 +1,29 @@
+{
+    "name": "hb_portal",
+    "version": "1.0.0",
+    "private": false,
+    "scripts": {
+        "dev": "vite",
+        "test:unit": "vitest run",
+        "test:unit-watch": "vitest"
+    },
+    "files": [
+        "src/*"
+    ],
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.7.1",
+        "@mammoth_developer/mm-storybook": "file:../package",
+        "axios": "^1.7.8",
+        "chart.js": "^4.4.7",
+        "vitest": "^2.1.6",
+        "vue": "^2.7.14",
+        "vue-router": "^3.6.5",
+        "vuetify": "^2.5.8",
+        "vuex": "^3.6.2",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue2": "^2.3.1",
+        "vite": "^5.0.0"
+    }
+}
